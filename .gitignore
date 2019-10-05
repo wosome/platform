@@ -1,0 +1,7 @@
+.idea
+.terraform
+
+# keep auth folder, not the contents
+auth/*
+!auth/.gitkeep
+
